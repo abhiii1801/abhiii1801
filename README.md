@@ -1,4 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhinav Tomar
+
+🎓 **Computer Science Student** | 💻 **Aspiring Data Engineer** | ⚡ **Big Data & Dashboard Enthusiast**
+
+---
+
+I'm a passionate 2nd-year engineering student specializing in **Big Data Analytics** at Chandigarh University. I love building projects that combine **real-time data**, **automation**, and **insightful dashboards** using tools like **Apache Kafka, Spark, PostgreSQL, and Power BI**.  
+My goal? To turn complex data into clean, useful insights that solve real problems. 💡
+
+---
+
+## 🔧 Skills & Tech Stack
+
+**Programming:** Python, SQL, C++, C, R (Basics), JavaScript (Basics)  
+**Big Data & Tools:** Apache Spark, Apache Kafka, Apache Airflow, Data Manipulation, Data Management  
+**Frameworks & DBs:** Flask, React, MongoDB, PostgreSQL, Microsoft Excel  
+**Other Tools:** Git, Selenium, Streamlit, Power BI, Linux (Basics)  
+**Soft Skills:** Problem-Solving, Adaptability, Creativity, Critical Thinking, Conflict Resolution
+
+---
+## 📜 Experience
+
+**🔬 Research Assistant** – *ICAR, Jhansi*  
+→ Gained hands-on experience in Big Data, Excel, and Linux.  
+→ Focused on data management and cleaning for bioinformatics research.
+
+**💼 Project Intern** – *PARKnSECURE, Gurugram*  
+→ Worked with Python, Flask, and annotation tools.  
+→ Trained ML models and handled project data workflows.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-tomar-367080289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialabhinavtomar@gmail.com) 
